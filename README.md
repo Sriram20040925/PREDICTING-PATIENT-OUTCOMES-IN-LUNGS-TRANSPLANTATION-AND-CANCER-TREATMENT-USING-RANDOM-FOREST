@@ -1,6 +1,4 @@
-Here’s a **clean and professional README.md** for your project 👇
 
----
 
 # PREDICTING PATIENT OUTCOMES IN LUNG TRANSPLANTATION AND CANCER TREATMENT USING RANDOM FOREST
 
@@ -101,9 +99,3 @@ python main.py
 
 This project demonstrates how machine learning can be used to predict patient outcomes effectively, improving healthcare decision-making and patient survival rates.
 
----
-
-If you want, I can also:
-✅ Customize this for your exact code
-✅ Add screenshots / badges
-✅ Make it more attractive (GitHub style)
